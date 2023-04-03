@@ -5,7 +5,7 @@ AppleALC
 
 An open source kernel extension enabling native macOS HD audio for not officially supported codecs without any filesystem modifications. AppleALCU can be used for systems with digital-only audio.
 
-English (Current)  
+English (Current-2023)  
 [简体中文](https://github.com/acidanthera/AppleALC/blob/master/README_CN.md)  
 
 #### Features
